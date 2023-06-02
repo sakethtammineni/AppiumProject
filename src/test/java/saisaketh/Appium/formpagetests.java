@@ -22,6 +22,7 @@ public class formpagetests extends Appiumconfigure{
 	public void toastmessagecheck() throws InterruptedException {
 		formpage.submitbtn();
 		formpage.toastmessage();
+		System.out.println("Changes in GIT");
 	}
 	
 	@Parameters({ "name" , "gender","country" })
