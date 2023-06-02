@@ -1,0 +1,8 @@
+To run project from mvn command
+go to project directory
+run this command
+mvn test -Pidname
+
+To give run time values which are present in properties file
+
+mvn test -Pidname -Dparametername=value >>this takes highest priority than one mentioned in properties file

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="2" total="3" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-06-01T23:43:59 IST" name="Suite" finished-at="2023-06-01T23:44:14 IST" duration-ms="14979">
+    <groups>
+      <group name="testgroupattributes">
+        <method signature="formpagetests.toastmessagecheck()[pri:1, instance:saisaketh.Appium.formpagetests@2bb3058]" name="toastmessagecheck" class="saisaketh.Appium.formpagetests"/>
+      </group> <!-- testgroupattributes -->
+    </groups>
+    <test started-at="2023-06-01T23:43:59 IST" name="Test" finished-at="2023-06-01T23:44:14 IST" duration-ms="14581">
+      <class name="saisaketh.Appium.formpagetests">
+        <test-method is-config="true" signature="appiumbasics()[pri:0, instance:saisaketh.Appium.formpagetests@2bb3058]" started-at="2023-06-01T23:43:59 IST" name="appiumbasics" finished-at="2023-06-01T23:44:10 IST" duration-ms="10301" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- appiumbasics -->
+        <test-method signature="toastmessagecheck()[pri:1, instance:saisaketh.Appium.formpagetests@2bb3058]" started-at="2023-06-01T23:44:10 IST" name="toastmessagecheck" finished-at="2023-06-01T23:44:14 IST" duration-ms="4199" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- toastmessagecheck -->
+      </class> <!-- saisaketh.Appium.formpagetests -->
+    </test> <!-- Test -->
+    <test started-at="2023-06-01T23:44:14 IST" name="completesuite" finished-at="2023-06-01T23:44:14 IST" duration-ms="2">
+    </test> <!-- completesuite -->
+  </suite> <!-- Suite -->
+</testng-results>
